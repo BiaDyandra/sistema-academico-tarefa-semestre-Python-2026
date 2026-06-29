@@ -1,0 +1,8 @@
+2026-06-28 17:00:02 [INFO] service - Login realizado com sucesso. Usuário: admin | Perfil: ADMIN
+2026-06-28 17:05:22 [INFO] service - Login realizado com sucesso. Usuário: admin | Perfil: ADMIN
+2026-06-28 17:05:37 [INFO] service - Dados acadêmicos persistidos com sucesso. Tipo: TXT | Turmas: 1 | Arquivo: data\academic-data.txt
+2026-06-28 17:05:58 [INFO] service - Relatório gerado. Relatório: Resumo de avaliações por turma | Perfil do usuário: ADMIN
+2026-06-28 17:06:00 [INFO] service - Relatório gerado. Relatório: Relatório de peso de avaliações | Perfil do usuário: ADMIN
+2026-06-28 17:06:01 [INFO] service - Relatório gerado. Relatório: Relatório de configuração de persistência | Perfil do usuário: ADMIN
+2026-06-28 17:06:02 [INFO] service - Relatório gerado. Relatório: Resumo de avaliações por turma | Perfil do usuário: ADMIN
+2026-06-28 17:06:02 [INFO] service - Relatório gerado. Relatório: Relatório de peso de avaliações | Perfil do usuário: ADMIN
