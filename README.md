@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-# Sistema Acadêmico — Python (Exercício 3)
+# Sistema Acadêmico — Python
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-Modern--GUI-darkgreen)
