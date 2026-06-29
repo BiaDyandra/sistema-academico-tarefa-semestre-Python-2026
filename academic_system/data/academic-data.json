@@ -1,0 +1,18 @@
+{
+  "classes": [
+    {
+      "code": "CS101",
+      "name": "POO",
+      "assessments": [
+        {
+          "name": "Prova 1",
+          "weight": 0.6
+        },
+        {
+          "name": "Trabalho",
+          "weight": 0.4
+        }
+      ]
+    }
+  ]
+}

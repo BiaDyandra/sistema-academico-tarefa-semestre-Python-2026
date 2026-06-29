@@ -1,0 +1,10 @@
+2026-06-28 17:07:17 [INFO] service - Login realizado com sucesso. Usuário: admin | Perfil: ADMIN
+2026-06-29 00:43:55 [INFO] service - Login realizado com sucesso. Usuário: admin | Perfil: ADMIN
+2026-06-29 00:44:02 [INFO] service - Dados acadêmicos persistidos com sucesso. Tipo: TXT | Turmas: 0 | Arquivo: data\academic-data.txt
+2026-06-29 00:44:06 [INFO] service - Logout realizado. Usuário: admin
+2026-06-29 00:44:17 [INFO] service - Login realizado com sucesso. Usuário: professor | Perfil: PROFESSOR
+2026-06-29 00:44:25 [INFO] service - Logout realizado. Usuário: professor
+2026-06-29 00:58:34 [INFO] service - Login realizado com sucesso. Usuário: admin | Perfil: ADMIN
+2026-06-29 00:58:39 [INFO] service - Dados acadêmicos persistidos com sucesso. Tipo: TXT | Turmas: 0 | Arquivo: data\academic-data.txt
+2026-06-29 00:58:42 [INFO] service - Logout realizado. Usuário: admin
+2026-06-29 00:58:49 [WARNING] service - Falha na tentativa de login. Usuário: bia.

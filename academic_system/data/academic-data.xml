@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<academicData>
+    <classes>
+        <class code="CS101">
+            <name>POO</name>
+            <assessments>
+                <assessment>
+                    <name>Prova 1</name>
+                    <weight>0.6</weight>
+                </assessment>
+                <assessment>
+                    <name>Trabalho</name>
+                    <weight>0.4</weight>
+                </assessment>
+            </assessments>
+        </class>
+    </classes>
+</academicData>
